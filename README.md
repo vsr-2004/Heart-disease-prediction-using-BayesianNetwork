@@ -1,7 +1,4 @@
 # Heart-disease-prediction-using-BayesianNetwork
-A README file is crucial for any project, especially for a technical one like "Heart Disease Detection using Bayesian Network." It provides essential information for anyone who wants to understand, use, or contribute to your project.
-
-Here's a comprehensive README file template, which you can customize with your specific project details:
 
 Heart Disease Detection using Bayesian Network
 Table of Contents
