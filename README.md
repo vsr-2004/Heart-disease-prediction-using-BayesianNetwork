@@ -22,7 +22,7 @@ Project Overview
 This repository contains the code and resources for building, training, and evaluating a Bayesian Network model for heart disease prediction. The project focuses on learning the structure and parameters of the network from clinical data and then using it for inference on new patient profiles.
 
 Features
-Bayesian Network Construction: Programmatically constructs the Bayesian Network structure.
+Bayesian Network Construction: Programmatically constructs the Bayesian Network structure  .
 Parameter Learning: Learns the Conditional Probability Tables (CPTs) from training data.
 Inference: Performs probabilistic inference to predict the likelihood of heart disease given a set of symptoms/risk factors.
 Data Preprocessing: Includes scripts for cleaning, transforming, and preparing raw medical data.
